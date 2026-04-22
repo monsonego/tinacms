@@ -1,5 +1,11 @@
 # tinacms
 
+## 3.7.4
+
+### Patch Changes
+
+- [#6708](https://github.com/tinacms/tinacms/pull/6708) [`ca725ac`](https://github.com/tinacms/tinacms/commit/ca725acb42be499c146d76b12982e05a8127f81e) Thanks [@isaaclombardssw](https://github.com/isaaclombardssw)! - Fix rich-text image edit form: the URL field now shows the correct `URL` label and loads the existing image (previously it displayed the raw field path like `body.children[10].props.url` and rendered as an empty upload dropzone). The breadcrumb for the image form also now reads "Image" instead of the full path.
+
 ## 3.7.3
 
 ### Patch Changes

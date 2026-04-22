@@ -1,5 +1,12 @@
 # @tinacms/app
 
+## 2.4.4
+
+### Patch Changes
+
+- Updated dependencies [[`ca725ac`](https://github.com/tinacms/tinacms/commit/ca725acb42be499c146d76b12982e05a8127f81e)]:
+  - tinacms@3.7.4
+
 ## 2.4.3
 
 ### Patch Changes
